@@ -6,12 +6,13 @@
 
 
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BFFE5&background=FF57BE00&center=true&vCenter=true&width=435&separator=%3D&lines=printf(%22Hello%2C+World!%5Cn%22);%3Dcout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std;%3DSystem.out.println(%22Hello%2C+World!%22);%3Dprint(%22Hello%2C+World!%22)%3Dconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" />
+    </a>
+</div>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BFFE5&background=FF57BE00&center=true&vCenter=true&width=435&separator=%3D&lines=printf(%22Hello%2C+World!%5Cn%22);%3Dcout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std;%3DSystem.out.println(%22Hello%2C+World!%22);%3Dprint(%22Hello%2C+World!%22)%3Dconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" />
-</a>
-
-<div>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Xiangyu+Shen;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
   </a>
@@ -54,7 +55,6 @@ Hi there 👋! Welcome to my github!
     </a>
 </div>
 
-
 <div>
   <h3>🛠️ Tech Stack</h3>
   <p>
@@ -65,6 +65,15 @@ Hi there 👋! Welcome to my github!
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunyzhi55/sunyzhi55/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunyzhi55/sunyzhi55/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sunyzhi55/sunyzhi55/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 
 
 
