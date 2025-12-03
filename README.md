@@ -48,7 +48,7 @@
 
   <!-- hello world 打字机效果 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BFFE5&background=FF57BE00&center=true&vCenter=true&width=435&separator=%3D&lines=printf(%22Hello%2C+World!%5Cn%22);%3Dcout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std;%3DSystem.out.println(%22Hello%2C+World!%22);%3Dprint(%22Hello%2C+World!%22)%3Dconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BFFE5&background=FF57BE00&center=true&vCenter=true&width=435&separator=%3D&lines=printf(%22Hello%2C+World!%5Cn%22);%3Dcout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+endl;%3DSystem.out.println(%22Hello%2C+World!%22);%3Dprint(%22Hello%2C+World!%22)%3Dconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" />
   </a>
 </div>
 
