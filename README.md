@@ -317,8 +317,9 @@
 
 <!--
   美化版
+  github markdown 似乎不支持太复杂的样式，故注释掉
 -->
-<div align="center">
+<!-- <div align="center">
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     <tr>
       <td style="width: 50%; vertical-align: top; padding: 12px;">
@@ -416,56 +417,9 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 
-
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">✨ Fragments of Thought</h3>
-
-<ul>
-  <li>🌌 <em>All light takes time to arrive.</em><br>
-      <sub>(所有的光都需要时间才能抵达)</sub>
-  </li>
-  <li>🎐 <em>The wind wrinkles the days; I gently smooth them out.</em><br>
-      <sub>(风把日子吹皱了，我把它抚平)</sub>
-  </li>
-  <li>🪄 <em>To make ordinary things beautiful is a form of tenderness.</em><br>
-      <sub>(把平凡的事做得漂亮，就是一种温柔)</sub>
-  </li>
-  <li>⏳ <em>Love can withstand the long passage of time.</em><br>
-      <sub>(热爱可抵岁月漫长)</sub>
-  </li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌈 Phantasmagoric Visions</h3>
-
-<p align="center">
-  <img src="./assets/wonder.png" width="420" alt="Neon Dreams">
-</p>
-
-<p>
-  <strong>Neon Dreams</strong><br>
-  Capturing the <em>kaleidoscopic moments</em> where <strong>code meets art</strong>.<br>
-  <font color=#7BFF89>In this shimmering chaos, we find our own order.</font>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-</div>
 
 
 <div align="center">
@@ -500,6 +454,16 @@
             <font color="#C70DFF">(热爱可抵岁月漫长)</font>
           </li>
         </ul>
+          <blockquote>
+            <strong><font size="4" color="#7DF9FF">Neon Dreams</font></strong>
+            <br><br>
+            <font color="#EDE9FE">Capturing the </font>
+            <i><font color="#C70DFF">kaleidoscopic moments</font></i>
+            <font color="#EDE9FE"> where </font>
+            <b><font color="#7DF9FF">code meets art</font></b>.
+            <br><br>
+            <font color="#7BFF89">In this shimmering chaos, we find our own order.</font>
+        </blockquote>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">
@@ -509,16 +473,6 @@
             <img src="./assets/wonder.png" width="100%" alt="Wonder">
         </div>
         <br>
-        <blockquote>
-          <strong><font size="4" color="#7DF9FF">Neon Dreams</font></strong>
-          <br><br>
-          <font color="#EDE9FE">Capturing the </font>
-          <i><font color="#C70DFF">kaleidoscopic moments</font></i>
-          <font color="#EDE9FE"> where </font>
-          <b><font color="#7DF9FF">code meets art</font></b>.
-          <br><br>
-          <font color="#7BFF89">In this shimmering chaos, we find our own order.</font>
-        </blockquote>
       </td>
     </tr>
   </table>
