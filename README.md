@@ -57,119 +57,111 @@
 ## 💻 Languages and Tools 🛠
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="center" style="width: 100%; table-layout: fixed;">
 
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="60" />
       <br>C
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=clion" width="48" height="48" alt="CLion" />
       <br>CLion
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
       <br>Visual Studio
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+      <br>IDEA
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+      <br>Python
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
-      <br>IDEA
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="anaconda" />
       <br>Anaconda
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
+      <br>Sklearn
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="pycharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
-      <br>Sklearn
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="pycharm" />
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-
-  <!-- Row 4 (JS后加入Sass & Node.js) -->
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime" />
       <br>Sublime
     </td>
-  </tr>
-
-  <!-- Row 5 -->
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="Github" />
       <br>Github
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
+    <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
       <br>Vim
     </td>
