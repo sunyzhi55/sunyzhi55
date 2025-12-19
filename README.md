@@ -4,8 +4,6 @@
 </div>
 
 
-
-
 <!-- <div align="center"> -->
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=240&section=header&text=Hi%20there%20👋!%20Welcome%20to%20my%20GitHub!&fontSize=44&animation=twinkling&fontAlignY=48&fontColor=4B0082" width="100%" alt="Header Banner" /> -->
 <!-- </div> -->
@@ -256,6 +254,175 @@
 
 ---
 
+## ✨ Words & Visuals
+
+<!-- 
+  Visual Notes
+  A fleeting moment suspended in light — surreal, luminous,
+  and beautifully disordered.  
+  A quiet reflection of a world that feels
+  <em>kaleidoscopic</em>, ever-shifting, and alive.
+ -->
+<!-- 
+白色背景版
+ -->
+<!-- <div align="center">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    <tr>
+      <td style="width: 50%; vertical-align: top; padding: 12px;">
+        <h3 align="center">Fragments of Thought</h3>
+        <ul style="text-align: left; line-height: 1.6; list-style-type: disc;">
+          <li><em>All light takes time to arrive.</em> (所有的光都需要时间才能抵达)</li>
+          <li><em>The wind wrinkles the days; I gently smooth them out.</em> (风把日子吹皱了，我把它抚平)</li>
+          <li><em>To make ordinary things beautiful is a form of tenderness.</em> (把平凡的事做得漂亮，就是一种温柔)</li>
+          <li><em>Love can withstand the long passage of time.</em> (热爱可抵岁月漫长)</li>
+        </ul>
+      </td>
+      <td style="width: 50%; vertical-align: top; padding: 15px;">
+        <h3 align="center" style="margin-bottom: 20px; font-weight: 600; letter-spacing: 1px;">Phantasmagoric Visions</h3>
+        <div style="
+          position: relative; 
+          width: 100%; 
+          max-width: 520px; 
+          min-height: 280px; 
+          margin: 0 auto; 
+          border-radius: 16px; 
+          overflow: hidden; 
+          /* The 76, 29, 149 Gradient here creates the 'Phantasmagoric' (Purple/Cyan/Black) vibe */
+          background: linear-gradient(145deg, rgba(76, 29, 149, 0.7), 
+          rgba(15, 23, 42, 0.4)), url('./assets/wonder.png') center/cover no-repeat; 
+          box-shadow: 0 10px 30px rgba(88, 28, 135, 0.25);
+          transition: transform 0.3s ease;
+        ">
+          <div style="
+            position: relative; 
+            padding: 30px 24px; 
+            color: #ffffff; 
+            text-align: left; 
+            text-shadow: 0 4px 12px rgba(0,0,0,0.6);
+          ">
+            <strong style="display: block; font-size: 20px; margin-bottom: 10px; letter-spacing: 0.5px; border-bottom: 2px solid rgba(255,255,255,0.3); padding-bottom: 8px; width: fit-content;">
+              Neon Dreams
+            </strong>
+            <span style="font-size: 15px; line-height: 1.6; display: block; opacity: 0.95;">
+              Capturing the kaleidoscopic moments where code meets art. In this shimmering chaos, we find our own order.
+            </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div> -->
+
+
+<!--
+  美化版
+-->
+<div align="center">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    <tr>
+      <td style="width: 50%; vertical-align: top; padding: 12px;">
+        <h3 align="center" style="color: #7DF9FF; letter-spacing: 0.8px;">
+          Fragments of Thought
+        </h3>
+        <ul style="text-align: left; line-height: 1.7; list-style-type: disc; color: #7DF9FF;">
+          <li>🌌
+            <em style="color: #7DF9FF;">All light takes time to arrive.</em>
+            <span style="color: #C70DFF;"> (所有的光都需要时间才能抵达)</span>
+          </li>
+          <li>🎐
+            <em style="color: #7DF9FF;">The wind wrinkles the days; I gently smooth them out.</em>
+            <span style="color: #C70DFF;"> (风把日子吹皱了，我把它抚平)</span>
+          </li>
+          <li>🪄
+            <em style="color: #7DF9FF;">To make ordinary things beautiful is a form of tenderness.</em>
+            <span style="color: #C70DFF;"> (把平凡的事做得漂亮，就是一种温柔)</span>
+          </li>
+          <li>⏳
+            <em style="color: #7DF9FF;">Love can withstand the long passage of time.</em>
+            <span style="color: #C70DFF;"> (热爱可抵岁月漫长)</span>
+          </li>
+        </ul>
+      </td>
+      <td style="width: 50%; vertical-align: top; padding: 15px;">
+        <h3 align="center" style="
+          margin-bottom: 20px;
+          font-weight: 600;
+          letter-spacing: 1px;
+          color: #C70DFF;
+          text-shadow: 0 0 12px rgba(199, 13, 255, 0.35);
+        ">
+          Phantasmagoric Visions
+        </h3>
+        <div style="
+          position: relative;
+          width: 100%;
+          max-width: 520px;
+          min-height: 280px;
+          margin: 0 auto;
+          border-radius: 16px;
+          overflow: hidden;
+          background:
+            linear-gradient(
+              145deg,
+              rgba(76, 29, 149, 0.7),
+              /* rgba(125, 249, 255, 0.25), */
+              rgba(15, 23, 42, 0.35)
+            ),
+            url('./assets/wonder.png') center/cover no-repeat;
+          box-shadow:
+            0 10px 30px rgba(58, 27, 252, 0.25),
+            0 0 40px rgba(199, 13, 255, 0.15);
+          transition: transform 0.3s ease;
+        ">
+          <div style="
+            position: relative;
+            padding: 30px 24px;
+            text-align: left;
+            text-shadow: 0 4px 12px rgba(0,0,0,0.6);
+          ">
+            <strong style="
+              display: block;
+              font-size: 20px;
+              margin-bottom: 12px;
+              letter-spacing: 0.6px;
+              color: #7DF9FF;
+              border-bottom: 2px solid rgba(125, 249, 255, 0.4);
+              padding-bottom: 8px;
+              width: fit-content;
+            ">
+              Neon Dreams
+            </strong>
+            <span style="
+              font-size: 15px;
+              line-height: 1.7;
+              display: block;
+              color: #EDE9FE;
+            ">
+              Capturing the
+              <span style="color: #C70DFF; font-style: italic;">
+                kaleidoscopic moments
+              </span>
+              where
+              <span style="color: #7DF9FF;">
+                code meets art
+              </span>.
+              <span style="color: #7BFF89;">
+              In this shimmering chaos, we find our own order.
+              </span>
+            </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+---
+
 ## 📊 My GitHub Stats 📈
 <!-- 综合统计（包含图标）和语言分布 -->
 <!-- <div align="center">
@@ -285,3 +452,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunyzhi55/sunyzhi55/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sunyzhi55/sunyzhi55/output/github-contribution-grid-snake.svg" style="max-width:100%;" />
 </picture>
+
+<!-- 
+color palette reference:
+#3A1BFC
+#7DF9FF
+#C70DFF
+#7BFFB9
+#A27BFF
+#9B59FF
+#00A8CC
+#2EC4B6
+#6FFBFF
+ -->
