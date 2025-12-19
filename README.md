@@ -422,53 +422,42 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">
-          <font color="#7DF9FF">Fragments of Thought</font>
-        </h3>
+        <h3 align="center">Fragments of Thought</h3>
         <ul>
           <li>
-            🌌 
-            <strong><font color="#7DF9FF">All light takes time to arrive.</font></strong><br>
-            <font color="#C70DFF">(所有的光都需要时间才能抵达)</font>
+            🌌<strong>All light takes time to arrive.</strong><br>
+            (所有的光都需要时间才能抵达)
           </li>
           <br>
           <li>
-            🎐 
-            <strong><font color="#7DF9FF">The wind wrinkles the days...</font></strong><br>
-            <font color="#C70DFF">(风把日子吹皱了，我把它抚平)</font>
+            🎐<strong>The wind wrinkles the days; I gently smooth them out.</strong><br>
+            (风把日子吹皱了，我把它抚平)
           </li>
           <br>
           <li>
-            🪄 
-            <strong><font color="#7DF9FF">To make ordinary things beautiful...</font></strong><br>
-            <font color="#C70DFF">(把平凡的事做得漂亮，就是一种温柔)</font>
+            🪄<strong>To make ordinary things beautiful is a form of tenderness.</strong><br>
+            (把平凡的事做得漂亮，就是一种温柔)
           </li>
           <br>
           <li>
-            ⏳ 
-            <strong><font color="#7DF9FF">Love can withstand the long passage...</font></strong><br>
-            <font color="#C70DFF">(热爱可抵岁月漫长)</font>
+            ⏳<strong>Love can withstand the long passage of time.</strong><br>
+            (热爱可抵岁月漫长)
           </li>
         </ul>
           <blockquote>
-            <strong><font size="4" color="#7DF9FF">Neon Dreams</font></strong>
-            <br><br>
-            <font color="#EDE9FE">Capturing the </font>
-            <i><font color="#C70DFF">kaleidoscopic moments</font></i>
-            <font color="#EDE9FE"> where </font>
-            <b><font color="#7DF9FF">code meets art</font></b>.
-            <br><br>
-            <font color="#7BFF89">In this shimmering chaos, we find our own order.</font>
+            <strong>Neon Dreams</strong>
+            <br>
+            Capturing the <i>kaleidoscopic moments</i> where 
+            <b>code meets art</b>.
+            In this shimmering chaos, we find our own order.
         </blockquote>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">
-          <font color="#C70DFF">Phantasmagoric Visions</font>
-        </h3>
+        <h3 align="center">Phantasmagoric Visions</h3>
         <div align="center">
             <img src="./assets/wonder.png" width="100%" alt="Wonder">
         </div>
@@ -476,10 +465,12 @@
       </td>
     </tr>
   </table>
+</div> -->
+
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner Image" />
 </div>
 
-
-![Banner](./assets/banner.svg)
 
 ---
 
