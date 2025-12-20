@@ -4,9 +4,9 @@
 </div>
 
 
-<!-- <div align="center"> -->
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=240&section=header&text=Hi%20there%20👋!%20Welcome%20to%20my%20GitHub!&fontSize=44&animation=twinkling&fontAlignY=48&fontColor=4B0082" width="100%" alt="Header Banner" /> -->
-<!-- </div> -->
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=240&section=header&text=Hi%20there%20👋!%20Welcome%20to%20my%20GitHub!&fontSize=44&animation=twinkling&fontAlignY=48&fontColor=4B0082" width="100%" alt="Header Banner" />
+</div> -->
 
 
 <!-- <div align="center">
@@ -488,10 +488,42 @@
 
 
 <!-- 贡献图活动图 -->
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+</div> -->
+
+
+<!-- Aura 风格1 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=15141b&color=a277ff&line=61ffca&point=ff69b4&area=true&area_color=61ffca&hide_border=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
 </div>
 
+<!-- Aura 风格2 -->
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=15141b&color=edecee&line=a277ff&point=61ffca&area=true&area_color=a277ff&hide_border=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+</div> -->
+
+<!-- Aura 风格3 -->
+<!-- <div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=0b0f1a&color=a78bfa&line=22d3ee&point=38bdf8&area=true&area_color=7c3aed&hide_border=true&"alt="Activity Graph"style="max-width:800px;width:100%;"/>
+</div> -->
+
+<!-- Aura 风格4 -->
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=15141b&color=edecee&line=a277ff&point=f694ff&area=true&hide_border=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+</div> -->
+
+ 
+<!-- Synthewave 84 风格 -->
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=262335&color=ff7edb&line=36f9f6&point=fdd835&hide_border=true&area=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+</div> -->
+
+<!-- Moonlight 风格 -->
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunyzhi55&bg_color=0d1117&color=ffffff&line=00f2ff&point=a06cd5&area=true&hide_border=true" alt="Activity Graph" style="max-width:800px;width:100%;" />
+</div> -->
 
 
 ---
