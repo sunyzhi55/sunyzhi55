@@ -471,6 +471,11 @@
   <img src="./assets/banner.svg" width="100%" alt="Banner Image" />
 </div>
 
+<div align="center">
+  <p align="center">
+    <img src="./assets/volcano.gif" width="75%" alt="Volcano GIF" />
+  </p>
+</div>
 
 ---
 
